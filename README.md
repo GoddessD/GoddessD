@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hello, I'm Daniella! 👋
 
-Welcome to my GitHub profile! I'm an Educator passionate about Interactive Apps and Website for kids and families. 
+Welcome to my GitHub profile! I'm an Educator passionate about Interactive Apps and Website for kids and families.  
 Here you'll find a collection of my projects, contributions, and explorations in the world of software development.
 
 ## About Me
