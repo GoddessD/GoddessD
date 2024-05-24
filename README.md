@@ -56,7 +56,7 @@ I'm an active contributor to open source projects, including: TBA
 Let's connect and collaborate! You can find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/daniella-louis-a12b0768)
-- [" "](Your " " Profile URL
+- [" "] ( " " Profile URL)
 - [My Calendly for Appointments](https://www.https://calendly.com/daniellalouis/one-on-one)
 
 ## Support Me
