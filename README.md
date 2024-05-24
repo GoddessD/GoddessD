@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Creating a README for your GitHub profile is a great way to introduce yourself, showcase your projects, and provide links to your social media and other relevant information. Here's a template you can use:
-
 ---
 
 # Hello, I'm Daniella! 👋
